@@ -1,1 +1,19 @@
+Package com.combino.datatypes;
 
+Public class ExampleDatatypes {
+
+Private byte aByte = 123;
+Private short aShort= 32667 ;
+Private int anInt = 2147483647 ;
+Pdrivate long along = 98745632502 ;
+Private float a Float= 99.9 F ;
+Private double aDouble =996.9999 ;
+Private boolean aBoolean = true ;
+Private char a Char = 1 & 1 ;
+Private String aString = " Chennai " ;
+Private String bString = " Tamilnadu " ;
+Private String cString = " India " ;
+
+Public void printMyDataTypes [ ] {
+System.out.println (aByte);
+System.out.println (cString);
